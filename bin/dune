@@ -1,0 +1,4 @@
+(executable
+ (public_name BrowserShell)
+ (name main)
+ (libraries BrowserShell lablgtk2))

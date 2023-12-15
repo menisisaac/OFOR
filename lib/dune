@@ -1,0 +1,3 @@
+(library
+ (name BrowserShell)
+ (libraries lablgtk2))
