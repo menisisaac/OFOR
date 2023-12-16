@@ -1,0 +1,6 @@
+[submodule "OFOR"]
+	path = OFOR
+	url = git@github.com:menisisaac/OFOR.git
+[submodule "v8"]
+	path = v8
+	url = https://github.com/v8/v8.git
