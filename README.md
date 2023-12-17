@@ -1,4 +1,7 @@
 # IFOR Project Roadmap
+Ocaml based browser with enough features to enable basic viewing of modern webpages.
+Planning to start working on this once I finish Infa-- and CS162 as I want more Operating Systems 
+experience to better architect the browser structure as well as get ready for applying for jobs.
 ## Milestone 1
 ### HTML
 - [ ] HTML Parser
